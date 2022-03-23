@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkhendrickson
+- 👋 Hi, I’m @jkhendrickson, jeff hendrickson.
 - 👀 I’m interested in fishing, and martial arts.
 - 🌱 I’m currently learning how to work with people, yes, getting into management.
 - 💞️ I’m looking to collaborate on military simulations / games.
