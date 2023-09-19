@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jkhendrickson, jeff hendrickson.
-- 👀 I’m interested in fishing, and martial arts.
-- 🌱 I’m currently learning how to work with people, yes, getting into management.
+- 👋 Hi, I’m @jkhendrickson, Jeff Hendrickson.
+- 👀 I’m interested in fishing, shooting and martial arts.
+- 🌱 I’m currently getting ready to retire, but still programming.
 - 💞️ I’m looking to collaborate on military simulations / games.
 - 📫 How to reach me jeff@hendricom.com, or 703-499-6004.
 
